@@ -1,4 +1,4 @@
-import 'package:academia/17_asserts/cliente.dart';
+import 'package:academia/poo/17_asserts/cliente.dart';
 
 void main() {
   var cli = Cliente(
